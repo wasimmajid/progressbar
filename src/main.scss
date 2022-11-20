@@ -1,0 +1,21 @@
+$danger: rgb(240, 81, 81);
+$info: rgb(110, 200, 241);
+
+@import "~bootstrap/scss/bootstrap";
+
+h1 {
+  font-size: 1.75em;
+}
+.progress {
+  height: 2.5em;
+}
+.btn.btn-primary {
+  margin-right: 0.5em;
+}
+
+.progress-text {
+  position: relative;
+  top: -1.65em;
+  text-align: center;
+  color: black;
+}
